@@ -1,0 +1,1 @@
+Ensuring that you have the required number of components plus one extra in case of failure.

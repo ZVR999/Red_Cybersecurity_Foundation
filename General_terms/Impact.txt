@@ -1,0 +1,3 @@
+The description of the possible cost to an organization due to an event.
+
+These events could be environmental, due to an internal threat, etc.

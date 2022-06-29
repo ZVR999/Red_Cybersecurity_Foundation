@@ -1,0 +1,4 @@
+The probability of an incident occurring.
+
+This probability generally comes with an impact score as well. 
+
