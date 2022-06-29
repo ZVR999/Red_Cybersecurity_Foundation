@@ -1,0 +1,1 @@
+This is where a threat actor will install a rogue hypervisor that can take complete control of a server or workstation. 
